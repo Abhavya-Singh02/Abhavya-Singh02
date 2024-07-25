@@ -26,7 +26,7 @@ I have over 4 years of experience as an Excel trainer with iClass Gyansetu. I am
 - 📫 How to reach me: abhavya.singh04@gmail.com
 - 😄 Happy Learning
 
-## GitHub Stats
+## 📈GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhavya-Singh02&show_icons=true&theme=radical) 
 
@@ -40,6 +40,9 @@ I have over 4 years of experience as an Excel trainer with iClass Gyansetu. I am
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhavya-singh/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhavya_Singh/)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhavya-Singh02&color=blue&style=for-the-badge)
 
 
 
